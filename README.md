@@ -2,7 +2,7 @@
 - 👀 I’m interested in dev
 - 🌱 I’m currently learning  les langage
 - 💞️ I’m looking to collaborate on your project
-- 📫 mail:jojomiandra@gmail.com
+- 📫 email:jojomiandra@gmail.com
 - 
 
 <!---
