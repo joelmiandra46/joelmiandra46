@@ -6,6 +6,8 @@
   Bienvenue sur mon profil GitHub !
 </h3>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Développeur+Web+%F0%9F%92%BB;Symfony+%7C+Vue.js+%7C+MySQL+%7C+C%23+%F0%9F%96%A5%EF%B8%8F;Passionné+par+le+code+et+le+design+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
@@ -75,11 +77,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+JOEL+MIANDRA;Crafting+code+with+precision+%E2%9C%A8;Turning+ideas+into+reality+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TON-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 ---
 
 ## 💡 Quote of the day
