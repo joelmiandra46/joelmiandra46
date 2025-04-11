@@ -1,3 +1,6 @@
+<!-- Photo de couverture -->
+<img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?auto=format&fit=crop&w=1350&q=80" width="100%" alt="cover image"/>
+
 - 👋 Hi, I’m @joelmiandra46
 - 👀 I’m interested in dev
 - 🌱 I’m currently learning  les langage
