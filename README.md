@@ -1,6 +1,7 @@
 <h1 align="center">
-  Salut, moi c'est JOEL MIANDRA 👋Bienvenue sur mon profil GitHub !
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+JOEL+MIANDRA;Crafting+code+with+precision+%E2%9C%A8;Turning+ideas+into+reality+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
+
 
 
 ---
@@ -77,9 +78,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TON-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+JOEL+MIANDRA;Crafting+code+with+precision+%E2%9C%A8;Turning+ideas+into+reality+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
 
 ---
 
