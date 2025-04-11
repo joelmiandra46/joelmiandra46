@@ -1,6 +1,7 @@
 
-  <img src="https://imgur.com/fwIOyy8" width="100%" alt="dev cover colorful">
-
+<p align="center">
+  <img src="https://cdn.openai.com/chat-plugins/images/github-banner-dev-colorful.png" width="100%" alt="developer banner colorful">
+</p>
 
 - 👋 Hi, I’m @joelmiandra46
 - 👀 I’m interested in dev
@@ -28,6 +29,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://skillicons.dev/icons?i=symfony,csharp,vue,mysql,twig,html,css,js,git,github,vscode,docker,linux" />
 </div>
+
 ## 🛠️ Technologies & outils
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
