@@ -13,8 +13,9 @@
   <img src="assets/images/cover2.jpg" width="80%" alt="developer banner colorful">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=750&lines=Développeur+Web+passionné+💻;Symfony+%7C+Vue.js+%7C+MySQL+%7C+C%23;Fan+de+design+et+de+projets+clean+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Développeur+Web+%F0%9F%92%BB&loop=1" alt="Typing SVG" />
 </p>
+
 
 
 
