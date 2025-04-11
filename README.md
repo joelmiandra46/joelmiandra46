@@ -18,7 +18,14 @@
 - 🌱 I’m currently learning  les langage
 - 💞️ I’m looking to collaborate on your project
 - 📫 email:jojomiandra@gmail.com
+
 - 
+<h2 align="center">📈 Mes Contributions GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TON-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 <!---
 joelmiandra46/joelmiandra46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
