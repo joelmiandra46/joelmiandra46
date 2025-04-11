@@ -1,5 +1,5 @@
 <h1 align="center">
-  Salut, moi c'est [Ton Prénom] 👋
+  Salut, moi c'est JOEL MIANDRA 👋
 </h1>
 
 <h3 align="center">
