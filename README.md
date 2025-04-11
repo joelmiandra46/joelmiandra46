@@ -24,6 +24,12 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
+### 💡 En savoir plus
+
+- 💬 Toujours partant pour discuter dev, design ou side projects
+- 📫 Contacte-moi : [jojomiandra@gmail.com](mailto:jojomiandra@gmail.com)
+- 🎮 J’aime aussi les jeux, la musique, et tester des technos 🤖
+- 
 ## 📈 Stats GitHub
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=joelmiandra46&show_icons=true&theme=radical)
 ![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=joelmiandra46&layout=compact&theme=radical)
