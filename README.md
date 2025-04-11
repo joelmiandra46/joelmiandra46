@@ -9,6 +9,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Développeur+Web+%F0%9F%92%BB;Symfony+%7C+Vue.js+%7C+MySQL+%7C+C%23+%F0%9F%96%A5%EF%B8%8F;Passionné+par+le+code+et+le+design+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 ---
+
+
 <p align="center">
   <img src="assets/images/cover2.jpg" width="80%" alt="developer banner colorful">
 </p>
