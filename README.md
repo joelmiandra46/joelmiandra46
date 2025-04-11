@@ -1,10 +1,7 @@
 <h1 align="center">
-  Salut, moi c'est JOEL MIANDRA 👋
+  Salut, moi c'est JOEL MIANDRA 👋Bienvenue sur mon profil GitHub !
 </h1>
 
-<h3 align="center">
-  Bienvenue sur mon profil GitHub !
-</h3>
 
 ---
 
