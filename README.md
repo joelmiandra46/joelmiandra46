@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="assets/images/cover3.jpg" width="100%" alt="developer banner colorful">
+  <img src="assets/images/cover4.jpg" width="100%" alt="developer banner colorful">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Développeur+Web+%F0%9F%92%BB&loop=1" alt="Typing SVG" />
