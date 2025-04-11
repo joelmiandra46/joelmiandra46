@@ -15,3 +15,7 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Omnis Studio](https://img.shields.io/badge/Omnis-39457E?style=for-the-badge&logo=code&logoColor=white)
 
+## 📈 Stats GitHub
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=joelmiandra46&show_icons=true&theme=radical)
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=joelmiandra46&layout=compact&theme=radical)
+
