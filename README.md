@@ -20,11 +20,7 @@
 - 📫 email:jojomiandra@gmail.com
 
 - 
-<h2 align="center">📈 Mes Contributions GitHub</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TON-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 
 <!---
@@ -69,10 +65,8 @@ You can click the Preview link to take a look at your changes.
 - 💬 Toujours partant pour discuter dev, design ou side projects
 - 📫 Contacte-moi : [jojomiandra@gmail.com](mailto:jojomiandra@gmail.com)
 - 🎮 J’aime aussi les jeux, la musique, et tester des technos 🤖
-### 🔥 Contributions & Activité
+<h2 align="center">📈 Mes Contributions GitHub</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=joelmiandra46&theme=dark" />
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=joelmiandra46&theme=react-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TON-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
