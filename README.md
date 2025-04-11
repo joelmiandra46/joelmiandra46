@@ -28,3 +28,10 @@ You can click the Preview link to take a look at your changes.
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=joelmiandra46&show_icons=true&theme=radical)
 ![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=joelmiandra46&layout=compact&theme=radical)
 
+### 🔥 Contributions & Activité
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=joelmiandra46&theme=dark" />
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=joelmiandra46&theme=react-dark" />
+</p>
