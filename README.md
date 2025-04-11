@@ -83,9 +83,9 @@
   <details open>
       <summary>
             <b>🏆 Trophies.</b>
-            <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
+            <img src="assets/images/animated-flame-01.gif" width="1.75%" align="right"/>
       </summary>
-      <img src="assets/borderseparator.gif"/>
+      <img src="assets/images/borderseparator.gif"/>
       <br/>
       <br/>
       <div>
