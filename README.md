@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/images/cover.jpg" width="100%" alt="developer banner colorful">
+  <img src="assets/images/cover2.jpg" width="100%" alt="developer banner colorful">
 </p>
 
 - 👋 Hi, I’m @joelmiandra46
