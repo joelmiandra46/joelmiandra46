@@ -70,3 +70,53 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TON-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+JOEL+MIANDRA;Crafting+code+with+precision+%E2%9C%A8;Turning+ideas+into+reality+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/larry109/larry109/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🔥 Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=symfony,cs,dotnet,twig,mysql,vue,js,html,css,php,git,github,linux,vscode&theme=dark&perline=8" />
+</p>
+
+---
+
+## 💡 Quote of the day
+
+> “Simplicity is the soul of efficiency.” – Austin Freeman
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joelmiandra&label=Profile%20views&color=FFD700&style=flat" alt="profile views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joelmiandra&show_icons=true&theme=gruvbox&title_color=FFD700&icon_color=FFD700&text_color=fff&bg_color=0d1117" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=joelmiandra&theme=gruvbox&hide_border=false&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🛰️ Let's Connect
+
+<p align="center">
+  <a href="https://github.com/joelmiandra">
+    <img src="https://img.shields.io/github/followers/joelmiandra?label=Follow&style=social" alt="GitHub" />
+  </a>
+</p>
