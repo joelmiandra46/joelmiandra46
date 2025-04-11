@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://cdn.openai.com/chat-plugins/images/github-banner-dev-colorful.png" width="100%" alt="developer banner colorful">
+  <img src="assets/images/cover.jpg" width="100%" alt="developer banner colorful">
 </p>
 
 - 👋 Hi, I’m @joelmiandra46
