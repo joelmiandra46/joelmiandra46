@@ -78,9 +78,8 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/larry109/larry109/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TON-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## 💡 Quote of the day
