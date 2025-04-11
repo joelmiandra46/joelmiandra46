@@ -83,14 +83,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🔥 Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=symfony,cs,dotnet,twig,mysql,vue,js,html,css,php,git,github,linux,vscode&theme=dark&perline=8" />
-</p>
-
----
-
 ## 💡 Quote of the day
 
 > “Simplicity is the soul of efficiency.” – Austin Freeman
@@ -103,20 +95,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelmiandra&show_icons=true&theme=gruvbox&title_color=FFD700&icon_color=FFD700&text_color=fff&bg_color=0d1117" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joelmiandra&theme=gruvbox&hide_border=false&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
-</p>
-
----
-
-### 🛰️ Let's Connect
-
-<p align="center">
-  <a href="https://github.com/joelmiandra">
-    <img src="https://img.shields.io/github/followers/joelmiandra?label=Follow&style=social" alt="GitHub" />
-  </a>
-</p>
