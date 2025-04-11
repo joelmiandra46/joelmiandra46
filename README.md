@@ -13,6 +13,18 @@
 joelmiandra46/joelmiandra46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+### 🚧 I’m currently building...
+
+- 🔧 Des apps **Symfony** robustes et scalables côté back
+- 🎨 Des interfaces dynamiques avec **Vue.js** + **Twig**
+- 🛢️ Des systèmes bien structurés avec **MySQL**
+- 💻 Des outils desktop ou API en **C#**
+- 📚 Des projets personnels et open source pour apprendre et partager
+
+---
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=symfony,csharp,vue,mysql,twig,html,css,js,git,github,vscode,docker,linux" />
 </div>
