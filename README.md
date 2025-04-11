@@ -26,8 +26,13 @@
 - 💞️ I’m looking to collaborate on your project
 - 📫 email:jojomiandra@gmail.com
 
-- 
+  ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joelmiandra&label=Profile%20views&color=FFD700&style=flat" alt="profile views" />
+</p>
+
+---
 
 
 <!---
@@ -85,12 +90,6 @@ You can click the Preview link to take a look at your changes.
 
 > “Simplicity is the soul of efficiency.” – Austin Freeman
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joelmiandra&label=Profile%20views&color=FFD700&style=flat" alt="profile views" />
-</p>
-
----
 
 
