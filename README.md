@@ -1,5 +1,6 @@
-<!-- Photo de couverture -->
-<img src="https://images.unsplash.com/photo-1626808642875-c44bfc5f6f92?auto=format&fit=crop&w=1400&q=80" width="100%" alt="cover colorful dev"/>
+<p align="center">
+  <img src="https://i.imgur.com/hf9u3OC.png" width="100%" alt="dev cover colorful">
+</p>
 
 - 👋 Hi, I’m @joelmiandra46
 - 👀 I’m interested in dev
