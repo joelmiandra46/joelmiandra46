@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/RFiz95l" width="100%" alt="dev cover colorful">
+  <img src="https://imgur.com/fwIOyy8" width="100%" alt="dev cover colorful">
 </p>
 
 - 👋 Hi, I’m @joelmiandra46
