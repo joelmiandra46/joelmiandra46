@@ -92,7 +92,6 @@
         <img src="https://github-profile-trophy.vercel.app/?username=joelmiandra46&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="joelmiandra Github Trophies" width="100%"/>
       </div>
   </details>
-
 <br/>
 
 
@@ -105,18 +104,13 @@
 <h2 align="center">📈 Mes Contributions GitHub</h2>
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=joelmiandra46&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
 
-
+###mon current streak
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=joelmiandra46&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
   </a>
 </p>
-
-
-
-  
 
 ---
 
