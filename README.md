@@ -105,10 +105,9 @@
 <h2 align="center">📈 Mes Contributions GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joelmiandra46eme=radical&hide_border=true" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=joelmiandra46&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joelmiandra46&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
 
 ---
 
