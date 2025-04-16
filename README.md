@@ -108,6 +108,10 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=joelmiandra46&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
 </p>
 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=joelmiandra46&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=joelmiandra46&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
