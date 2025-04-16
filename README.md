@@ -104,16 +104,17 @@
 - 🎮 J’aime aussi les jeux, la musique, et tester des technos 🤖
 <h2 align="center">📈 Mes Contributions GitHub</h2>
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=joelmiandra46&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
-</p>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=joelmiandra46&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joelmiandra46&theme=dark" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=joelmiandra46&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
+  </a>
 </p>
+
+
 
   
 
