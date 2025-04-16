@@ -58,9 +58,11 @@
 
 ---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=symfony,csharp,vue,mysql,twig,html,css,js,git,github,vscode,docker,linux" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,linux" />
+  </a>
+</p>
 
 ## 🛠️ Technologies & outils
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
