@@ -108,8 +108,7 @@
 
 
 ###mon current streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=joelmiandra46&theme=dracula&hide_border=true&locale=fr)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=joelmiandra46&theme=dark&hide_border=true&locale=fr)](https://git.io/streak-stats)
 ---
 
 ## 💡 Quote of the day
