@@ -108,11 +108,7 @@
 
 
 ###mon current streak
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=joelmiandra46&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=joelmiandra46&theme=dracula&hide_border=true&locale=fr)](https://git.io/streak-stats)
 
 ---
 
